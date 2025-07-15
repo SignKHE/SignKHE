@@ -46,5 +46,13 @@ Resume
  * [백제군사박물관 백제성쌓기 체험]
 ## 3.6 2024년
  * [국립조세박물관AR](https://play.google.com/store/apps/details?id=com.fourdart.tax_ar&hl=ko&pli=1)
- * [어린이국세청 세금게임](https://taxwebgame.link/)
- * [대구읍성영상관 인터렉트 영상]
+ * [어린이국세청 세금게임](https://taxwebgame.link/) [영상](https://youtu.be/pLj3FXGj7cA)
+ * [대구읍성영상관 인터렉트 영상](https://youtu.be/NHIYFR8qVXk)
+ * [동래구 딩동댕 피아노](https://youtu.be/9uh5xWEkleA)
+ * [동래구 라이브스케치](https://youtu.be/9uh5xWEkleA)
+## 3.7 2025년
+ * [국방부 방첩사령부 VR체험]
+ * [국세청 어린이 게임 키오스크]
+ * [원주첨단그린스마트센터 AR체험]
+ * [국세청 홍보대사와 인생사진]
+ * [행주산성축제 조선무기 VR체험]

@@ -44,9 +44,9 @@ Resume
  * 국립광주박물관 도자기게임
  * DMZ AR 동식물원
  * 백제군사박물관
-   * 백제성쌓기
+   * [백제성쌓기](https://youtu.be/DOr0ZPNf60c)
    * 총사령관이 되어보자
-   * 백제무기 키오스크
+   * [백제무기 키오스크](https://youtu.be/WAkT1moAKCY)
 ## 3.6 2024년
  * 국세청
    * [국립조세박물관AR](https://play.google.com/store/apps/details?id=com.fourdart.tax_ar&hl=ko&pli=1)
@@ -56,7 +56,7 @@ Resume
    * 계획도시 장항의 기록 키오스크
    * 장항 시민들의 인터뷰 키오스크
  * [동래구 혁신어울림센터](https://youtu.be/9uh5xWEkleA)
-   * 딩동댕 피아노
+   * [딩동댕 피아노](https://youtu.be/E3qUi9HpOh8)
    * 라이브 스케치
    * 안내 키오스크
  * 국제 남도음식문하 큰잔치
@@ -66,7 +66,7 @@ Resume
 ## 3.7 2025년
  * 국방부 방첩사령부 VR체험
  * 국세청
-   * 어린이 게임 키오스크
+   * [어린이 게임 키오스크](https://youtu.be/WuRhCyrIpak)
    * 국세청 홍보대사와 인생사진
  * 원주첨단그린스마트센터 AR체험
  * 행주산성축제 조선무기 VR체험

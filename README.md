@@ -22,7 +22,7 @@ Resume
   ```
   2023 (주)포디아트 개발부 인턴 입사
   2024 정규직 전환
-  2025 퇴사
+  2025 포디아트 퇴사
   ```
 # 2. 기술
 
@@ -43,7 +43,7 @@ Resume
 ## 3.5 2023년
  * [조주기능사 시뮬레이션](https://github.com/SignKHE/metabar)
  * 국립광주박물관 도자기게임
- * DMZ AR 동식물원
+ * [DMZ AR 동식물원](https://youtu.be/N7ssj7YhBJw)
  * 백제군사박물관
    * [백제성쌓기](https://youtu.be/DOr0ZPNf60c)
    * 총사령관이 되어보자
@@ -54,20 +54,20 @@ Resume
    * [어린이국세청 세금게임](https://taxwebgame.link/) - [영상](https://youtu.be/pLj3FXGj7cA)
  * [대구읍성영상관 인터렉트 영상](https://youtu.be/NHIYFR8qVXk)
  * [장항의 집](https://blog.naver.com/sinmunman/223853835574)
-   * 계획도시 장항의 기록 키오스크
-   * 장항 시민들의 인터뷰 키오스크
+   * [계획도시 장항의 기록 키오스크](https://youtube.com/shorts/VQJtS_e58FY?feature=share)
+   * [장항 시민들의 인터뷰 키오스크](https://youtu.be/JSoOwg33HdA)
  * [동래구 혁신어울림센터](https://youtu.be/9uh5xWEkleA)
    * [딩동댕 피아노](https://youtu.be/E3qUi9HpOh8)
-   * 라이브 스케치
-   * 안내 키오스크
+   * [라이브 스케치](https://youtu.be/DlEhH8LEhwM)
+   * [안내 키오스크](https://youtu.be/47myqI-KfXM)
  * 국제 남도음식문하 큰잔치
-   * 남도음식명인 키오스크
-   * 목포 9미 키오스크
+   * [남도음식명인 키오스크](https://youtu.be/rT_IIWSyyR4)
+   * [목포 9미 키오스크](https://youtu.be/vjgxHP7JASg)
  * 경주 황촌 나들이길 AR 콘텐츠
 ## 3.7 2025년
- * 국방부 방첩사령부 VR체험
+ * [국방부 방첩사령부 VR체험](https://youtu.be/fde8X9guSqc)
  * 국세청
    * [어린이 게임 키오스크](https://youtu.be/WuRhCyrIpak)
    * 국세청 홍보대사와 인생사진
- * 원주첨단그린스마트센터 AR체험
- * 행주산성축제 조선무기 VR체험
+ * [원주첨단그린스마트센터 AR체험](https://youtu.be/F7Ze_KPNPgY)
+ * [행주산성축제 조선무기 VR체험](https://youtu.be/tUWrA6uBY4U)
